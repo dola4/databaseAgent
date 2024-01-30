@@ -1,0 +1,20 @@
+{
+    "produits":[
+        {
+            "_id": "e85ca1d4-f96a-40d9-b577-377e630440e2",
+            "categorieId": "7eb1375d-a702-44e1-b351-c65e302dc159",
+            "nomProduit": "Ajax",
+            "prix": 4.5,
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Ffr%2Fphotos%2Fajax&psig=AOvVaw0Z3Z3X6Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3&ust=1614829865762000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjQ4ZqM9-8CFQAAAAAdAAAAABAD",
+            "lastUpdate": "2021-03-02T15:00:00.000Z"
+        },
+        {
+            "_id": "ae6cf449-be1b-43e8-a65e-901cb706af62",
+            "categorieId": "f13ddcd5-19c3-4511-ab33-2414a4e8c9b8",
+            "nomProduit": "table",
+            "prix": 15.5,
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ikea.com%2Ffr%2Ffr%2Fp%2Fmelltorp-table-blanc-80290223%2F&psig=AOvVaw0Z3Z3X6Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3&ust=1614829865762000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjQ4ZqM9-8CFQAAAAAdAAAAABAJ",
+            "lastUpdate": "2021-03-02T15:00:00.000Z"
+        }
+    ]
+}

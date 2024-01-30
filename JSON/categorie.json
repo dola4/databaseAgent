@@ -1,0 +1,16 @@
+{
+    "categories":[
+        {
+            "_id": "7eb1375d-a702-44e1-b351-c65e302dc159",
+            "nomCategorie": "Produit d'entretien",
+            "descriptionCategorie": "Extreme",
+            "lastUpdate": "2019-04-02T15:00:00.000Z"
+        },
+        {
+            "_id": "f13ddcd5-19c3-4511-ab33-2414a4e8c9b8",
+            "nomCategorie": "Meuble",
+            "descriptionCategorie": "Bois",
+            "lastUpdate": "2019-04-02T15:00:00.000Z"
+        }
+    ]
+}

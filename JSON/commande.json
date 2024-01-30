@@ -1,0 +1,36 @@
+{
+    "commandes":[
+        {
+            "_id": "72533e67-2775-4159-b596-ec41faa46680",
+            "id_client": "a3fc40dc-71e5-44ef-b9e7-e256bb75fa29",
+            "id_adresse": "fb801aeb-22de-4935-847c-5ba525cbb99c",
+            "dateCommande": "2023-11-10",
+            "total": 9,
+            "lastUpdate" : "2019-11-11T00:00:00.000Z",
+            "produits": 
+                {
+                    "_id": "e85ca1d4-f96a-40d9-b577-377e630440e2",
+                    "nomProduit": "Ajax",
+                    "prix": 4.5,
+                    "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Ffr%2Fphotos%2Fajax&psig=AOvVaw0Z3Z3X6Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3&ust=1614829865762000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjQ4ZqM9-8CFQAAAAAdAAAAABAD"
+                },
+            "quantite": 2
+        },
+        {
+            "_id": "f73afef8-ff65-4c31-9ce8-736cdaf95a38",
+            "id_client": "a3fc40dc-71e5-44ef-b9e7-e256bb75fa29",
+            "id_adresse": "b241b37b-2552-4b5d-a934-86d357ea5d82",
+            "dateCommande": "2032-11-16",
+            "total": 4.5,
+            "lastUpdate" : "2019-11-11T00:00:00.000Z",
+            "produits": 
+                {
+                    "_id": "e85ca1d4-f96a-40d9-b577-377e630440e2",
+                    "nomProduit": "Ajax",
+                    "prix": 4.5,
+                    "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Ffr%2Fphotos%2Fajax&psig=AOvVaw0Z3Z3X6Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3&ust=1614829865762000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjQ4ZqM9-8CFQAAAAAdAAAAABAD"
+                },
+            "quantite": 1
+        }
+    ]
+}
